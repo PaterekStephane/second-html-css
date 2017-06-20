@@ -1,0 +1,28 @@
+.image {
+  background-image: url(../img/codepieds.jpg);
+  width: 100%;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
+
+.placeholder {
+  height: 200px;
+  width: 100%;
+}
+
+.vertical-align {
+  vertical-align: middle;
+}
+
+.vertical-center {
+  left: 0px;
+  position: relative;
+  top: 11px;
+}
+
+.image p {
+  text-align: center;
+  color: lightblue;
+}
